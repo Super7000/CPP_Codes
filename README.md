@@ -2,20 +2,20 @@
 
 This Repository contains some basic data structure algorithms which are implemented by C++
 
--Stack 
--Queue
--Circular Queue
+- Stack 
+- Queue
+- Circular Queue
 
--Link List
--Double Link List
+- Link List
+- Double Link List
 
--Searching Algorithms
-  -Linear Search
-  -Binary Search
+- Searching Algorithms
+  - Linear Search
+  - Binary Search
   
--Sorting Algorithms
-  -Bubble Sort
-  -Selection Sort
-  -Insertion Sort
-  -Quick Sort
+- Sorting Algorithms
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+  - Quick Sort
 
